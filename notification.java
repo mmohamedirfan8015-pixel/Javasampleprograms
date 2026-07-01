@@ -5,21 +5,18 @@ class Notification {
 }
 
 class EmailNotification extends Notification {
-    @Override
     void send() {
         System.out.println("Sending notification through Email");
     }
 }
 
 class SMSNotification extends Notification {
-    @Override
     void send() {
         System.out.println("Sending notification through SMS");
     }
 }
 
 class WhatsAppNotification extends Notification {
-    @Override
     void send() {
         System.out.println("Sending notification through WhatsApp");
     }
