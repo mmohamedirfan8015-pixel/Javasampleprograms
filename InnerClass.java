@@ -1,6 +1,6 @@
 class Car{
     static String company="BMW";
-    static class Engine{
+    class Engine{
         void start(){
             System.out.println("Engine Started");
             System.out.println("Company:"+company);
@@ -9,6 +9,8 @@ class Car{
 }
 public class InnerClass {
     public static void main(String[] args){
-            
+            Car c=new Car();
+            Car.Engine e=c.new Engine();
+            e.start();
     }   
 }
