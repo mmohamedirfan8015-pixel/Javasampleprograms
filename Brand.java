@@ -2,7 +2,7 @@ class Mobile{
     String brand="Samsung";
     class Battery{
         void show(){
-            System.out.println("Battery belongs to"+brand);
+            System.out.println("Battery belongs to "+brand);
         }
     }
 }

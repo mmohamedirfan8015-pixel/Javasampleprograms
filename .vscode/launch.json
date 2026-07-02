@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PersonStudent",
+            "request": "launch",
+            "mainClass": "PersonStudent",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
             "name": "orderfood",
             "request": "launch",
             "mainClass": "orderfood",
