@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Brand",
+            "request": "launch",
+            "mainClass": "Brand",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "InnerClass",
+            "request": "launch",
+            "mainClass": "InnerClass",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
