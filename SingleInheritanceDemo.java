@@ -16,7 +16,7 @@ class Car extends Vehicle {
     }
 }
 
-// Main class
+
 public class SingleInheritanceDemo {
     public static void main(String[] args) {
         Car car = new Car();
