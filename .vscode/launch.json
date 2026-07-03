@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SchoolName",
+            "request": "launch",
+            "mainClass": "SchoolName",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
             "name": "PersonStudent",
             "request": "launch",
             "mainClass": "PersonStudent",
