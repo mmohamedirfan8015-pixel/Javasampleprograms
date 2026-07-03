@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "WithoutHandling",
+            "request": "launch",
+            "mainClass": "WithoutHandling",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
             "name": "SchoolName",
             "request": "launch",
             "mainClass": "SchoolName",
