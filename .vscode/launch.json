@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "list",
+            "request": "launch",
+            "mainClass": "list",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "ARRAYLIST",
+            "request": "launch",
+            "mainClass": "ARRAYLIST",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "LIST",
+            "request": "launch",
+            "mainClass": "LIST",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
             "name": "collection",
             "request": "launch",
             "mainClass": "collection",
