@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TerminalOperation",
+            "request": "launch",
+            "mainClass": "TerminalOperation",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
             "name": "list",
             "request": "launch",
             "mainClass": "list",
