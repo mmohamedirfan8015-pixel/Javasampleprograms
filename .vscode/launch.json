@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BubleSort",
+            "request": "launch",
+            "mainClass": "BubleSort",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
             "name": "TerminalOperation",
             "request": "launch",
             "mainClass": "TerminalOperation",
