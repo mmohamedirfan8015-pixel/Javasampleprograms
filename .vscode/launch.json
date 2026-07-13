@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FiveDigitNumber",
+            "request": "launch",
+            "mainClass": "FiveDigitNumber",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "Chocolates",
+            "request": "launch",
+            "mainClass": "Chocolates",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "SeatBooking",
+            "request": "launch",
+            "mainClass": "SeatBooking",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "StockProfitLoss",
+            "request": "launch",
+            "mainClass": "StockProfitLoss",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "StudentGrade",
+            "request": "launch",
+            "mainClass": "StudentGrade",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
             "name": "removeduplicates",
             "request": "launch",
             "mainClass": "removeduplicates",
