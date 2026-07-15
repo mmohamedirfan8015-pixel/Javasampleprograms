@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "UpdateDemo",
+            "request": "launch",
+            "mainClass": "UpdateDemo",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "DeleteDemo",
+            "request": "launch",
+            "mainClass": "DeleteDemo",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "ReadDemo",
+            "request": "launch",
+            "mainClass": "ReadDemo",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "InsertDemo",
+            "request": "launch",
+            "mainClass": "InsertDemo",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
             "name": "RunningSum",
             "request": "launch",
             "mainClass": "RunningSum",
