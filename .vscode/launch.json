@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RunningSum",
+            "request": "launch",
+            "mainClass": "RunningSum",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "SubArraySum",
+            "request": "launch",
+            "mainClass": "SubArraySum",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "RangeSumQuery",
+            "request": "launch",
+            "mainClass": "RangeSumQuery",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "HighestAltitude",
+            "request": "launch",
+            "mainClass": "HighestAltitude",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "CorporateFlightBookings",
+            "request": "launch",
+            "mainClass": "CorporateFlightBookings",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "MaximumAverageSubarray",
+            "request": "launch",
+            "mainClass": "MaximumAverageSubarray",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "MaximumSumSubarray",
+            "request": "launch",
+            "mainClass": "MaximumSumSubarray",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "MySQLConnection",
+            "request": "launch",
+            "mainClass": "MySQLConnection",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "CarPooling",
+            "request": "launch",
+            "mainClass": "CarPooling",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "Jdbc",
+            "request": "launch",
+            "mainClass": "Jdbc",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
             "name": "FiveDigitNumber",
             "request": "launch",
             "mainClass": "FiveDigitNumber",

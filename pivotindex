@@ -1,0 +1,9 @@
+public class pivotindex {
+    public static int pivotIndex(int[] nums){
+        int totalSum=0;
+        for(int num:nums){
+            totalSum+=num;
+        }
+        int leftSum=0;
+    }
+}
