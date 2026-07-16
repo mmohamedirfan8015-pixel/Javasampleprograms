@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Permutation",
+            "request": "launch",
+            "mainClass": "Permutation",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "FirstBadVersion",
+            "request": "launch",
+            "mainClass": "FirstBadVersion",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "LongestSubstring",
+            "request": "launch",
+            "mainClass": "LongestSubstring",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
             "name": "UpdateDemo",
             "request": "launch",
             "mainClass": "UpdateDemo",
