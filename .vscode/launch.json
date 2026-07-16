@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "WordSearch",
+            "request": "launch",
+            "mainClass": "WordSearch",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "ConvertDateToBinary",
+            "request": "launch",
+            "mainClass": "ConvertDateToBinary",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "MergeBinaryTrees",
+            "request": "launch",
+            "mainClass": "MergeBinaryTrees",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "Search2DMatrix",
+            "request": "launch",
+            "mainClass": "Search2DMatrix",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "SearchSuggestions",
+            "request": "launch",
+            "mainClass": "SearchSuggestions",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "GuessNumber",
+            "request": "launch",
+            "mainClass": "GuessNumber",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
             "name": "Permutation",
             "request": "launch",
             "mainClass": "Permutation",
