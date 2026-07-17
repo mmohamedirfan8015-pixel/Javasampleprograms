@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "reverselinkedlist",
+            "request": "launch",
+            "mainClass": "reverselinkedlist",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "ReverseLinkedList",
+            "request": "launch",
+            "mainClass": "ReverseLinkedList",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "MergeTwoList",
+            "request": "launch",
+            "mainClass": "MergeTwoList",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
             "name": "WordSearch",
             "request": "launch",
             "mainClass": "WordSearch",
