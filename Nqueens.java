@@ -36,7 +36,7 @@ public class Nqueens {
                 if(board[i][j])
                     System.out.print("Q");
                 else
-                    System.out.print(".");
+                    System.out.print(" . ");
             }
             System.out.println();
         }
