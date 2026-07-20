@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Combination",
+            "request": "launch",
+            "mainClass": "Combination",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "RecursionDemo",
+            "request": "launch",
+            "mainClass": "RecursionDemo",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "Nqueens",
+            "request": "launch",
+            "mainClass": "Nqueens",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "Subsets",
+            "request": "launch",
+            "mainClass": "Subsets",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
             "name": "reverselinkedlist",
             "request": "launch",
             "mainClass": "reverselinkedlist",
