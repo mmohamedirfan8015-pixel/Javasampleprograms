@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NullpointerException",
+            "request": "launch",
+            "mainClass": "NullpointerException",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
             "name": "Combination",
             "request": "launch",
             "mainClass": "Combination",
