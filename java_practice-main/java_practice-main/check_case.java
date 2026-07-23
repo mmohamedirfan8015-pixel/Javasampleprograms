@@ -16,5 +16,6 @@ public class check_case {
          else{
             System.out.println("Not an alphabet!");
          }
+         sc.close();
     }
 }

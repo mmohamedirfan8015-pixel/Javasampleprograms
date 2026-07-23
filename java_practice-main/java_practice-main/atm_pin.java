@@ -20,7 +20,6 @@ public class atm_pin {
             }
 
         } while (attempts < 3);
-
         System.out.println("Card Blocked");
         sc.close();
     }

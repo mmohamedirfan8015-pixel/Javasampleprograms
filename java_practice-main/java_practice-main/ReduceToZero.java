@@ -17,5 +17,6 @@ public class ReduceToZero {
         }
 
         System.out.println(steps);
+        sc.close();
     }
 }

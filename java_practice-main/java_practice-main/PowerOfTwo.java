@@ -12,5 +12,6 @@ public class PowerOfTwo {
         } else {
             System.out.println(n + " is NOT a Power of 2");
         }
+        sc.close();
     }
 }

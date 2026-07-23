@@ -17,5 +17,6 @@ public class LargestNumber {
          else{
             System.out.println("C is large!");
          }
+         sc.close();
     }
 }

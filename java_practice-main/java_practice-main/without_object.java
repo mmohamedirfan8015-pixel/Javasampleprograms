@@ -1,4 +1,4 @@
-public class without_object_str{
+public class without_object{
     static String add(String a,String b){
         return a+b;
     }

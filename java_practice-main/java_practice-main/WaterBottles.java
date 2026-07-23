@@ -17,5 +17,6 @@ public class WaterBottles {
         }
 
         System.out.println(total);
+        sc.close();
     }
 }

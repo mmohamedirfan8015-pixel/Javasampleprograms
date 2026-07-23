@@ -7,7 +7,6 @@ public class UglyNumber {
 
         if (n <= 0) {
             System.out.println(false);
-            return;
         }
 
         while (n % 2 == 0) n /= 2;
@@ -15,5 +14,6 @@ public class UglyNumber {
         while (n % 5 == 0) n /= 5;
 
         System.out.println(n == 1);
+        sc.close();
     }
 } 

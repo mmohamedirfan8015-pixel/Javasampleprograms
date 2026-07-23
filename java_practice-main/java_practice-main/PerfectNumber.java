@@ -14,5 +14,6 @@ public class PerfectNumber {
         }
 
         System.out.println(sum == num);
+        sc.close();
     }
 }

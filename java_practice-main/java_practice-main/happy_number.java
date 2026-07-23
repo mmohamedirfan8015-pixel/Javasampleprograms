@@ -23,6 +23,6 @@ public class happy_number {
         }
 
         System.out.println(n == 1);
+        sc.close();
     }
-}
 }

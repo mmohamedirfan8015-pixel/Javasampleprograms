@@ -7,7 +7,6 @@ public class CountDigits {
 
         if (n == 0) {
             System.out.println(1);
-            return;
         }
 
         int count = 0;
@@ -18,5 +17,6 @@ public class CountDigits {
         }
 
         System.out.println(count);
+        sc.close();
     }
 }

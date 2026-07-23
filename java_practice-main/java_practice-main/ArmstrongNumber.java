@@ -23,5 +23,6 @@ public class ArmstrongNumber {
         }
 
         System.out.println(sum == n);
+        sc.close();
     }
 }
